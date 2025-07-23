@@ -1,1 +1,1 @@
-# odin-recipies
+Hoping to show off my newly found HTML skills by the end of this project!!
